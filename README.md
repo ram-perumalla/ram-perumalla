@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Perumalla Rambabu 
-- 👀 I’m interested in ...Data
-- 🌱 I’m currently learning ... Python, Data Visualisation, Sql
-- 💞️ I’m looking to collaborate on ...Data Analytics/ Data Science 
+- 👀 I’m interested in ...Software Development.
+- 🌱 I’m currently learning ... Python, HTML, Java Script, MERN, AWS.
+- 💞️ I’m looking to collaborate on ...MERN Stack / Full Stack Development.
 - 📫 Reach me ... rambabuperumalla123@gmail.com
 
 <!---
